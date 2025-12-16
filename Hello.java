@@ -3,7 +3,7 @@ public class Hello {
 	public static void main(String[] args) {
 	
 		// TODO Auto-generated method stub
-int aa=60; int bb=60;
+int aa=60; int bb=70;
 		
  System.out.println(aa==bb);//true
  System.out.println(aa!=bb);// false
